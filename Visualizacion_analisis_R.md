@@ -1,4 +1,4 @@
-visualización de datos biológicos y análisis estadístico
+Visualización de datos biológicos y análisis estadístico
 ================
 xiomyjonas-code
 2026-01-05
@@ -392,3 +392,4 @@ activas pero no necesariamente sobreexpresadas. En el grupo fármaco (con
 valores Z-score negativos), sugiere que el tratamiento no solo ataca las
 vías oncogénicas hiperactivas, sino que compromete la viabilidad celular
 básica.
+
